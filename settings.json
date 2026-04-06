@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "yairsotuff",
+    "username": "lavishahor",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "zainshalosh.aternos.me",
+    "ip": "yairserver.aternos.me",
     "port": 62761,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "idan im comming",
-        "yametakudasay ahh!",
-        "its so tufffff"
+        "lavi is black i swear!",
+        "we all hate lavi right?",
+        "yair is better that lavi we all know it"
       ]
     },
     "chat-log": true,
